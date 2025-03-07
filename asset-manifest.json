@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manisha123b/pw_website_clone.github.io.git/static/css/main.fb8ee484.css",
+    "main.js": "/manisha123b/pw_website_clone.github.io.git/static/js/main.07368a39.js",
+    "index.html": "/manisha123b/pw_website_clone.github.io.git/index.html",
+    "main.fb8ee484.css.map": "/manisha123b/pw_website_clone.github.io.git/static/css/main.fb8ee484.css.map",
+    "main.07368a39.js.map": "/manisha123b/pw_website_clone.github.io.git/static/js/main.07368a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8ee484.css",
+    "static/js/main.07368a39.js"
+  ]
+}
